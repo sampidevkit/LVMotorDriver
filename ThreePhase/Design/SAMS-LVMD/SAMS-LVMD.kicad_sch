@@ -3474,7 +3474,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 106.68 49.53 0)
 			(effects
 				(font
@@ -3492,7 +3492,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 50V C0G/NP0 0603"
+			(at 106.68 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 106.68 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10C102JB8NNNC"
 			(at 106.68 49.53 0)
 			(effects
 				(font
@@ -3740,7 +3758,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 29.21 24.13 0)
 			(effects
 				(font
@@ -3758,7 +3776,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 5% 1/10W 0603"
+			(at 29.21 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 29.21 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-071KL"
 			(at 29.21 24.13 0)
 			(effects
 				(font
@@ -3876,7 +3912,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 59.055 154.94 0)
 			(effects
 				(font
@@ -3894,7 +3930,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0.01 OHM 1% 1W 1206"
+			(at 59.055 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 59.055 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "PE1206FKF470R01Z"
 			(at 59.055 154.94 0)
 			(effects
 				(font
@@ -3944,7 +3998,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 54.61 130.81 0)
 			(effects
 				(font
@@ -3962,7 +4016,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 35V X5R 0603"
+			(at 54.61 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 54.61 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10A105KL8NNNC"
 			(at 54.61 130.81 0)
 			(effects
 				(font
@@ -4234,7 +4306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -4252,7 +4324,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0 OHM JUMPER 1/10W 0603"
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-070RL"
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -4305,7 +4395,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 59.055 52.07 0)
 			(effects
 				(font
@@ -4323,7 +4413,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0.01 OHM 1% 1W 1206"
+			(at 59.055 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 59.055 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "PE1206FKF470R01Z"
 			(at 59.055 52.07 0)
 			(effects
 				(font
@@ -4376,7 +4484,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 59.055 97.79 0)
 			(effects
 				(font
@@ -4394,7 +4502,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0.01 OHM 1% 1W 1206"
+			(at 59.055 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 59.055 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "PE1206FKF470R01Z"
 			(at 59.055 97.79 0)
 			(effects
 				(font
@@ -4444,7 +4570,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 66.04 177.8 0)
 			(effects
 				(font
@@ -4462,7 +4588,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 35V X5R 0603"
+			(at 66.04 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 66.04 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10A105KL8NNNC"
 			(at 66.04 177.8 0)
 			(effects
 				(font
@@ -4725,7 +4869,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SHUNT"
+		(property "Value" "10mR"
 			(at 48.895 50.1649 90)
 			(effects
 				(font
@@ -4734,7 +4878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:SHUNT_1206"
 			(at 46.355 52.07 0)
 			(effects
 				(font
@@ -4752,7 +4896,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10 OHM 5% 1/10W 0603"
+			(at 46.355 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 46.355 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-0710RL"
 			(at 46.355 52.07 0)
 			(effects
 				(font
@@ -4963,7 +5125,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 137.16 33.02 0)
 			(effects
 				(font
@@ -4981,7 +5143,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 50V C0G/NP0 0603"
+			(at 137.16 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 137.16 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10C102JB8NNNC"
 			(at 137.16 33.02 0)
 			(effects
 				(font
@@ -5165,7 +5345,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 135.89 22.86 0)
 			(effects
 				(font
@@ -5183,7 +5363,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 100K OHM 5% 1/10W 0603"
+			(at 135.89 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 135.89 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-13100KL"
 			(at 135.89 22.86 0)
 			(effects
 				(font
@@ -5270,7 +5468,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFT" "Infineon Technologies"
+		(property "MFT" "Infineon"
 			(at 40.64 71.12 0)
 			(effects
 				(font
@@ -5397,7 +5595,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SHUNT"
+		(property "Value" "10mR"
 			(at 48.895 107.3149 90)
 			(effects
 				(font
@@ -5406,7 +5604,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:SHUNT_1206"
 			(at 46.355 109.22 0)
 			(effects
 				(font
@@ -5424,7 +5622,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10 OHM 5% 1/10W 0603"
+			(at 46.355 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 46.355 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-0710RL"
 			(at 46.355 109.22 0)
 			(effects
 				(font
@@ -5548,7 +5764,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 29.21 16.51 0)
 			(effects
 				(font
@@ -5566,7 +5782,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 5% 1/10W 0603"
+			(at 29.21 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 29.21 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-071KL"
 			(at 29.21 16.51 0)
 			(effects
 				(font
@@ -5616,7 +5850,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 60.325 50.165 0)
 			(effects
 				(font
@@ -5634,7 +5868,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 50V C0G/NP0 0603"
+			(at 60.325 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 60.325 50.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10C102JB8NNNC"
 			(at 60.325 50.165 0)
 			(effects
 				(font
@@ -5721,7 +5973,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFT" "Infineon Technologies"
+		(property "MFT" "Infineon"
 			(at 40.64 13.97 0)
 			(effects
 				(font
@@ -5792,7 +6044,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 29.21 81.28 0)
 			(effects
 				(font
@@ -5810,7 +6062,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 5% 1/10W 0603"
+			(at 29.21 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 29.21 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-071KL"
 			(at 29.21 81.28 0)
 			(effects
 				(font
@@ -5863,7 +6133,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 59.055 109.22 0)
 			(effects
 				(font
@@ -5881,7 +6151,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0.01 OHM 1% 1W 1206"
+			(at 59.055 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 59.055 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "PE1206FKF470R01Z"
 			(at 59.055 109.22 0)
 			(effects
 				(font
@@ -5934,7 +6222,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 59.055 166.37 0)
 			(effects
 				(font
@@ -5952,7 +6240,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0.01 OHM 1% 1W 1206"
+			(at 59.055 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 59.055 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "PE1206FKF470R01Z"
 			(at 59.055 166.37 0)
 			(effects
 				(font
@@ -6135,7 +6441,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 33.02 105.41 0)
 			(effects
 				(font
@@ -6153,7 +6459,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0 OHM JUMPER 1/10W 0603"
+			(at 33.02 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 33.02 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-070RL"
 			(at 33.02 105.41 0)
 			(effects
 				(font
@@ -6206,7 +6530,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 135.89 33.02 0)
 			(effects
 				(font
@@ -6224,7 +6548,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 5% 1/10W 0603"
+			(at 135.89 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 135.89 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-0710KL"
 			(at 135.89 33.02 0)
 			(effects
 				(font
@@ -6268,7 +6610,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SHUNT"
+		(property "Value" "10mR"
 			(at 48.895 164.4649 90)
 			(effects
 				(font
@@ -6277,7 +6619,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:SHUNT_1206"
 			(at 46.355 166.37 0)
 			(effects
 				(font
@@ -6295,7 +6637,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10 OHM 5% 1/10W 0603"
+			(at 46.355 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 46.355 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-0710RL"
 			(at 46.355 166.37 0)
 			(effects
 				(font
@@ -6420,7 +6780,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 105.41 40.64 0)
 			(effects
 				(font
@@ -6438,7 +6798,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 5% 1/10W 0603"
+			(at 105.41 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 105.41 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-071KL"
 			(at 105.41 40.64 0)
 			(effects
 				(font
@@ -6491,7 +6869,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 105.41 97.79 0)
 			(effects
 				(font
@@ -6509,7 +6887,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 5% 1/10W 0603"
+			(at 105.41 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 105.41 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-071KL"
 			(at 105.41 97.79 0)
 			(effects
 				(font
@@ -6627,7 +7023,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 33.02 162.56 0)
 			(effects
 				(font
@@ -6645,7 +7041,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0 OHM JUMPER 1/10W 0603"
+			(at 33.02 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 33.02 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-070RL"
 			(at 33.02 162.56 0)
 			(effects
 				(font
@@ -6787,15 +7201,6 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" ""
-			(at 72.39 36.195 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MNP" "ZXCT199QA1DW-7"
 			(at 86.36 60.325 0)
 			(effects
@@ -6806,25 +7211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Unit Price" "0.079"
-			(at 72.39 36.195 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MFT" "Diodes"
-			(at 72.39 36.195 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Checked" "OK"
 			(at 72.39 36.195 0)
 			(effects
 				(font
@@ -6889,7 +7276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 29.21 130.81 0)
 			(effects
 				(font
@@ -6907,7 +7294,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 5% 1/10W 0603"
+			(at 29.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 29.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-071KL"
 			(at 29.21 130.81 0)
 			(effects
 				(font
@@ -7022,7 +7427,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 106.68 106.68 0)
 			(effects
 				(font
@@ -7040,7 +7445,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 50V C0G/NP0 0603"
+			(at 106.68 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 106.68 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10C102JB8NNNC"
 			(at 106.68 106.68 0)
 			(effects
 				(font
@@ -7093,7 +7516,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 59.055 40.64 0)
 			(effects
 				(font
@@ -7111,7 +7534,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 0.01 OHM 1% 1W 1206"
+			(at 59.055 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 59.055 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "PE1206FKF470R01Z"
 			(at 59.055 40.64 0)
 			(effects
 				(font
@@ -7161,7 +7602,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 60.325 107.315 0)
 			(effects
 				(font
@@ -7179,7 +7620,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 50V C0G/NP0 0603"
+			(at 60.325 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 60.325 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10C102JB8NNNC"
 			(at 60.325 107.315 0)
 			(effects
 				(font
@@ -7294,7 +7753,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 54.61 16.51 0)
 			(effects
 				(font
@@ -7312,7 +7771,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 35V X5R 0603"
+			(at 54.61 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 54.61 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10A105KL8NNNC"
 			(at 54.61 16.51 0)
 			(effects
 				(font
@@ -7618,7 +8095,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFT" "Infineon Technologies"
+		(property "MFT" "Infineon"
 			(at 40.64 128.27 0)
 			(effects
 				(font
@@ -7778,7 +8255,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 25.4 48.26 0)
 			(effects
 				(font
@@ -7796,7 +8273,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 5% 1/10W 0603"
+			(at 25.4 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 25.4 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-0710KL"
 			(at 25.4 48.26 0)
 			(effects
 				(font
@@ -7849,7 +8344,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 105.41 154.94 0)
 			(effects
 				(font
@@ -7867,7 +8362,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 5% 1/10W 0603"
+			(at 105.41 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 105.41 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-071KL"
 			(at 105.41 154.94 0)
 			(effects
 				(font
@@ -7917,7 +8430,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 66.04 63.5 0)
 			(effects
 				(font
@@ -7935,7 +8448,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 35V X5R 0603"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10A105KL8NNNC"
 			(at 66.04 63.5 0)
 			(effects
 				(font
@@ -8050,7 +8581,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 106.68 163.83 0)
 			(effects
 				(font
@@ -8068,7 +8599,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 50V C0G/NP0 0603"
+			(at 106.68 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 106.68 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10C102JB8NNNC"
 			(at 106.68 163.83 0)
 			(effects
 				(font
@@ -8121,7 +8670,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 29.21 73.66 0)
 			(effects
 				(font
@@ -8139,7 +8688,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 5% 1/10W 0603"
+			(at 29.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 29.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-071KL"
 			(at 29.21 73.66 0)
 			(effects
 				(font
@@ -8192,7 +8759,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:RES0603"
 			(at 29.21 138.43 0)
 			(effects
 				(font
@@ -8210,7 +8777,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 5% 1/10W 0603"
+			(at 29.21 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Yageo"
+			(at 29.21 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "RC0603JR-071KL"
 			(at 29.21 138.43 0)
 			(effects
 				(font
@@ -8506,15 +9091,6 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" ""
-			(at 72.39 93.345 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MNP" "ZXCT199QA1DW-7"
 			(at 86.36 117.475 0)
 			(effects
@@ -8525,25 +9101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Unit Price" "0.079"
-			(at 72.39 93.345 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MFT" "Diodes"
-			(at 72.39 93.345 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Checked" "OK"
 			(at 72.39 93.345 0)
 			(effects
 				(font
@@ -8605,7 +9163,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 66.04 120.65 0)
 			(effects
 				(font
@@ -8623,7 +9181,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 35V X5R 0603"
+			(at 66.04 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 66.04 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10A105KL8NNNC"
 			(at 66.04 120.65 0)
 			(effects
 				(font
@@ -8673,7 +9249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 60.325 164.465 0)
 			(effects
 				(font
@@ -8691,7 +9267,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 50V C0G/NP0 0603"
+			(at 60.325 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 60.325 164.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10C102JB8NNNC"
 			(at 60.325 164.465 0)
 			(effects
 				(font
@@ -8768,15 +9362,6 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" ""
-			(at 72.39 150.495 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MNP" "ZXCT199QA1DW-7"
 			(at 86.36 174.625 0)
 			(effects
@@ -8787,25 +9372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Unit Price" "0.079"
-			(at 72.39 150.495 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MFT" "Diodes"
-			(at 72.39 150.495 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Checked" "OK"
 			(at 72.39 150.495 0)
 			(effects
 				(font
@@ -9062,7 +9629,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP0603"
 			(at 54.61 73.66 0)
 			(effects
 				(font
@@ -9080,7 +9647,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 35V X5R 0603"
+			(at 54.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Samsung"
+			(at 54.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "CL10A105KL8NNNC"
 			(at 54.61 73.66 0)
 			(effects
 				(font
