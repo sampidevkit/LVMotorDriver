@@ -7230,7 +7230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Liem:SOD-323_12"
+		(property "Footprint" "SAMPI:SOD-923"
 			(at 274.955 69.85 0)
 			(effects
 				(font
@@ -9494,7 +9494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Liem:SOD-323_12"
+		(property "Footprint" "SAMPI:SOD-923"
 			(at 205.105 72.39 0)
 			(effects
 				(font
@@ -10441,7 +10441,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Liem:SOD-323_12"
+		(property "Footprint" "SAMPI:SOD-923"
 			(at 217.805 72.39 0)
 			(effects
 				(font
@@ -10595,7 +10595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Liem:SOD-323_12"
+		(property "Footprint" "SAMPI:SOD-923"
 			(at 211.455 72.39 0)
 			(effects
 				(font
@@ -10964,7 +10964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Liem:SOD-323_12"
+		(property "Footprint" "SAMPI:SOD-923"
 			(at 198.755 72.39 0)
 			(effects
 				(font
@@ -11231,7 +11231,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP_ELEC-10.3x10.3-DIA10"
 			(at 204.47 101.6 0)
 			(effects
 				(font
@@ -11385,7 +11385,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:SOD-123"
 			(at 254 106.68 0)
 			(effects
 				(font
@@ -13512,7 +13512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Liem:SOD-323_12"
+		(property "Footprint" "SAMPI:SOD-923"
 			(at 201.295 157.48 0)
 			(effects
 				(font
@@ -13926,7 +13926,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:IDC-2x7x2MM-TH"
 			(at 231.14 50.8 0)
 			(effects
 				(font
@@ -14858,7 +14858,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP_ELEC-10.3x10.3-DIA10"
 			(at 217.17 101.6 0)
 			(effects
 				(font
@@ -15012,7 +15012,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:CAP_ELEC-10.3x10.3-DIA10"
 			(at 229.87 101.6 0)
 			(effects
 				(font
@@ -15101,7 +15101,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Liem:SOD-323_12"
+		(property "Footprint" "SAMPI:SOD-923"
 			(at 268.605 69.85 0)
 			(effects
 				(font
@@ -15911,7 +15911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Liem:SOD-323_12"
+		(property "Footprint" "SAMPI:SOD-923"
 			(at 255.905 69.85 0)
 			(effects
 				(font
@@ -16537,7 +16537,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SAMPI:D2PAK_TO-263"
 			(at 261.62 101.6 0)
 			(effects
 				(font
@@ -16801,7 +16801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Liem:SOD-323_12"
+		(property "Footprint" "SAMPI:SOD-923"
 			(at 262.255 69.85 0)
 			(effects
 				(font
