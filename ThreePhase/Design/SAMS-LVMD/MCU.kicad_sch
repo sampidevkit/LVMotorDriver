@@ -1,0 +1,190 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "925a945f-7b77-4caa-becf-e4682b267f44")
+	(paper "A4")
+	(title_block
+		(title "THREE-PHASE MOTOR DRIVER")
+		(date "2024-10-20")
+		(rev "0.0")
+		(company "SAMPI DEVELOPMENT KITS")
+	)
+	(lib_symbols)
+	(hierarchical_label "IV_SEN"
+		(shape input)
+		(at 88.9 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 200 50 1)
+			)
+			(justify right)
+		)
+		(uuid "005f1b65-6858-4a84-a710-c562228c71c8")
+	)
+	(hierarchical_label "IU_SEN"
+		(shape input)
+		(at 88.265 67.945 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 200 50 1)
+			)
+			(justify right)
+		)
+		(uuid "071100bd-72bd-4cdb-962b-a41ce03cbafe")
+	)
+	(hierarchical_label "WIN"
+		(shape output)
+		(at 74.93 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "24d58d20-f820-4029-ad4d-8388f09853b4")
+	)
+	(hierarchical_label "UEN"
+		(shape output)
+		(at 74.93 67.945 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3fb13d4d-2588-4e4f-b995-9e39f570c20b")
+	)
+	(hierarchical_label "VIN"
+		(shape output)
+		(at 74.93 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4249bf30-13d6-4723-b543-68d4be703185")
+	)
+	(hierarchical_label "VDC_DIV"
+		(shape input)
+		(at 88.9 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 200 50 1)
+			)
+			(justify right)
+		)
+		(uuid "4af0a7a7-003b-4fcc-86a0-e4328384cd49")
+	)
+	(hierarchical_label "FAULT"
+		(shape input)
+		(at 74.93 75.565 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 22 131 255 1)
+			)
+			(justify right)
+		)
+		(uuid "736809c9-74c3-448e-836f-4579108d4d73")
+	)
+	(hierarchical_label "IW_SEN"
+		(shape input)
+		(at 88.265 70.485 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 200 50 1)
+			)
+			(justify right)
+		)
+		(uuid "757d2111-1509-4aaa-b078-e968d1c5d842")
+	)
+	(hierarchical_label "VW_DIV"
+		(shape input)
+		(at 87.63 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 200 50 1)
+			)
+			(justify right)
+		)
+		(uuid "7e0b460c-c9d8-4951-8c8d-d0493203abb8")
+	)
+	(hierarchical_label "VU_DIV"
+		(shape input)
+		(at 86.995 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 200 50 1)
+			)
+			(justify right)
+		)
+		(uuid "84889c6c-b643-49f3-b609-56ae2bbe0cf5")
+	)
+	(hierarchical_label "VEN"
+		(shape output)
+		(at 74.93 70.485 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "86577e8f-ba26-4b5c-8e53-376e65014907")
+	)
+	(hierarchical_label "UIN"
+		(shape output)
+		(at 74.93 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9fab557c-dcb0-4c61-8d44-171f4a2850f6")
+	)
+	(hierarchical_label "WEN"
+		(shape output)
+		(at 74.93 73.025 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c686f067-5173-4010-91ec-ecb5f31b1c59")
+	)
+	(hierarchical_label "VV_DIV"
+		(shape input)
+		(at 87.63 62.865 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 200 50 1)
+			)
+			(justify right)
+		)
+		(uuid "cefd7dd5-9aff-4cb8-898f-53a113a177d8")
+	)
+)

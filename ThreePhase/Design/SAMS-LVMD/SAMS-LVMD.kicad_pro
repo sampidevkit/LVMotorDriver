@@ -333,10 +333,10 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -412,6 +412,18 @@
     [
       "eabd06f1-940c-48a8-9672-5070803c1e31",
       "Root"
+    ],
+    [
+      "1a56cc13-98e5-467c-a3fa-f18244504aab",
+      "PSU"
+    ],
+    [
+      "68272e0a-d6d9-4e42-adf3-1405aaff74db",
+      "INV"
+    ],
+    [
+      "d241aee3-e439-4b0e-8d0e-3112fb86634d",
+      "MCU"
     ]
   ],
   "text_variables": {}
