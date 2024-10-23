@@ -3208,6 +3208,44 @@
 		)
 	)
 	(sheet
+		(at 101.6 19.05)
+		(size 25.4 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 254 201 1.0000)
+		)
+		(uuid "005f2a00-9dda-4869-a2f4-9e5ad71ae1f2")
+		(property "Sheetname" "DBG"
+			(at 101.6 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DBG.kicad_sch"
+			(at 101.6 32.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SAMS-LVMD"
+				(path "/eabd06f1-940c-48a8-9672-5070803c1e31"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 31.75 38.1)
 		(size 25.4 31.75)
 		(fields_autoplaced yes)
@@ -3248,6 +3286,16 @@
 				(justify right)
 			)
 			(uuid "d4c4f362-3231-4be0-b437-5fed89a19f1f")
+		)
+		(pin "INV_EN" input
+			(at 57.15 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "850a90cd-7966-4f2b-b02e-20e12970a2da")
 		)
 		(instances
 			(project "SAMS-LVMD"
@@ -3309,7 +3357,7 @@
 			)
 			(uuid "c6b44361-28a6-413b-b188-9f5c394de857")
 		)
-		(pin "WEN" input
+		(pin "WINH" input
 			(at 127 50.8 0)
 			(effects
 				(font
@@ -3339,7 +3387,7 @@
 			)
 			(uuid "e19fea4c-e87d-4c84-a48a-0a91506463e8")
 		)
-		(pin "VEN" input
+		(pin "VINH" input
 			(at 127 46.355 0)
 			(effects
 				(font
@@ -3389,7 +3437,7 @@
 			)
 			(uuid "fb6739a4-e875-4414-9f69-3e7fbd913829")
 		)
-		(pin "UEN" input
+		(pin "UINH" input
 			(at 127 57.785 0)
 			(effects
 				(font

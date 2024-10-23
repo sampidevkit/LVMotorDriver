@@ -10,10 +10,1246 @@
 		(rev "0.0")
 		(company "SAMPI DEVELOPMENT KITS")
 	)
-	(lib_symbols)
+	(lib_symbols
+		(symbol "SAMPI:dsPIC33AKxxxMC106"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+			)
+			(property "Value" "dsPIC33AKxxxMC106"
+				(at 0 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "SAMPI:TQFP64_10x10_MCHP"
+				(at 0 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "IC MCU DSC 32BIT 128KB FLASH TQFP-64"
+				(at 0 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MNP" "DSPIC33AK128MC106-I/PT"
+				(at 0 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFT" "Microchip Technology"
+				(at 0 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "dsPIC33AKxxxMC106_1_0"
+				(pin passive line
+					(at -45.085 -78.74 0)
+					(length 2.54)
+					(name "AVSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -45.085 -76.2 0)
+					(length 2.54)
+					(name "AVDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -10.16 0)
+					(length 2.54)
+					(name "OA1OUT/AD1AN0/CMP1A/RP3/RA2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -12.7 0)
+					(length 2.54)
+					(name "OA1IN-/AD1ANN1/AD2AN0/RP4/RA3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -15.24 0)
+					(length 2.54)
+					(name "OA1IN+/AD1AN1/CMP1B/RP5/RA4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -17.78 0)
+					(length 2.54)
+					(name "OA3OUT/AD1AN3/CMP3A/RP6/RA5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -20.32 0)
+					(length 2.54)
+					(name "OA3IN-/AD1AN2/RP7/RA6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -50.8 0)
+					(length 2.54)
+					(name "OA3IN+/AD2AN2/CMP3B/RP22/RB5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -45.085 -81.28 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 46.355 -78.74 180)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -22.86 0)
+					(length 2.54)
+					(name "AD1AN6/RP8/IOMF1/RA7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -38.1 0)
+					(length 2.54)
+					(name "OA2OUT/AD2AN1/CMP2A/RP17/INT0/RB0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -40.64 0)
+					(length 2.54)
+					(name "TMS/OA2IN-/AD1AN4/AD2ANN1/RP18/RB1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -43.18 0)
+					(length 2.54)
+					(name "OA2IN+/AD2AN4/CMP2B/RP19/RB2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -58.42 0)
+					(length 2.54)
+					(name "AD1AN11/RP25/RB8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -60.96 0)
+					(length 2.54)
+					(name "AD2AN10/RP26/RB9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -45.085 -83.82 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 46.355 -81.28 180)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -45.72 0)
+					(length 2.54)
+					(name "PGD1/AD1AN5/CMP1C/ISRC0/IBIAS0/RP20/SDA1/RB3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -48.26 0)
+					(length 2.54)
+					(name "PGC1/AD2AN5/CMP2C/ISRC1/IBIAS1/RP21/SCL1/RB4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -53.34 0)
+					(length 2.54)
+					(name "AD1ANN2/AD1AN8/RP23/RB6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -7.62 0)
+					(length 2.54)
+					(name "PGC2/DACOUT1/AD1AN7/AD2AN3/CMP1D/CMP2D/CMP3D/RP2/SCL2/RA1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -55.88 0)
+					(length 2.54)
+					(name "AD2ANN2/AD2AN8/RP24/IOMF0/RB7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -63.5 0)
+					(length 2.54)
+					(name "RP27/SCK2/RB10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -66.04 0)
+					(length 2.54)
+					(name "RP28/SDI2/RB11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -25.4 180)
+					(length 2.54)
+					(name "RP41/IOMD11/IOMF11/PCI20/RC8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -27.94 180)
+					(length 2.54)
+					(name "RP42/IOMD10/SDO2/IOMF10/PCI19/RC9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -20.32 180)
+					(length 2.54)
+					(name "RP39/RC6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -22.86 180)
+					(length 2.54)
+					(name "RP40/RC7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -5.08 180)
+					(length 2.54)
+					(name "OSCO/CLKO/RP33/IOMF5/RC0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -7.62 180)
+					(length 2.54)
+					(name "OSCI/CLKI/RP34/IOMF6/RC1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -45.085 -86.36 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 46.355 -91.44 180)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 46.355 -83.82 180)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -10.16 180)
+					(length 2.54)
+					(name "PGC3/RP35/PWM4H/RC2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "41"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -17.78 180)
+					(length 2.54)
+					(name "RP38/PWM4L/RC5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "42"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -12.7 180)
+					(length 2.54)
+					(name "PGD3/RP36/PWM3H/IOMD0/RC3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "43"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -15.24 180)
+					(length 2.54)
+					(name "RP37/PWM3L/IOMD1/RC4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -30.48 180)
+					(length 2.54)
+					(name "RP43/IOMD9/IOMF9/RC10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "45"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -33.02 180)
+					(length 2.54)
+					(name "RP44/IOMD8/IOMF8/RC11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "46"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -45.085 -88.9 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "47"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 46.355 -86.36 180)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "48"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -58.42 180)
+					(length 2.54)
+					(name "RP58/IOMF7/RD9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "49"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 46.355 -76.2 180)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -60.96 180)
+					(length 2.54)
+					(name "RP59/RD10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "50"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -68.58 180)
+					(length 2.54)
+					(name "RP49/PWM2H/IOMD2/RD0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "51"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -38.1 180)
+					(length 2.54)
+					(name "TCK/RP50/PWM2L/IOMD3/RD1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "52"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -40.64 180)
+					(length 2.54)
+					(name "TDO/RP51/PWM1H/IOMD4/RD2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "53"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -43.18 180)
+					(length 2.54)
+					(name "TDI/RP52/PWM1L/IOMD5/RD3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "54"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -48.26 180)
+					(length 2.54)
+					(name "RP54/ASCL1/RD5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "55"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -50.8 180)
+					(length 2.54)
+					(name "RP55/ASDA1/RD6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "56"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -53.34 180)
+					(length 2.54)
+					(name "RP56/ASCL2/IOMD7/IOMF4/RD7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "57"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -55.88 180)
+					(length 2.54)
+					(name "RP57/ASDA2/IOMD6/IOMF3/RD8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "58"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -45.085 -91.44 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "59"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -33.02 0)
+					(length 2.54)
+					(name "AD1AN10/RP12/RA11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 46.355 -88.9 180)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "60"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -45.72 180)
+					(length 2.54)
+					(name "RP53/PCI22/RD4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "61"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -63.5 180)
+					(length 2.54)
+					(name "RP60/RD11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "62"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 46.355 -71.12 180)
+					(length 2.54)
+					(name "RP61/PCI21/RD12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "63"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -45.085 -71.12 0)
+					(length 2.54)
+					(name "~{MCLR}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "64"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -25.4 0)
+					(length 2.54)
+					(name "AD2AN9/ISRC3/IBIAS3/RP9/RA8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -27.94 0)
+					(length 2.54)
+					(name "AD1ANN3/AD1AN9/RP10/RA9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -30.48 0)
+					(length 2.54)
+					(name "AD2ANN3/AD2AN7/RP11/RA10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "dsPIC33AKxxxMC106_1_1"
+				(rectangle
+					(start -42.545 -3.175)
+					(end 43.815 -93.345)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at -45.085 -5.08 0)
+					(length 2.54)
+					(name "PGD2/AD2AN6/CMP3C/ISRC2/IBIAS2/RP1/SDA2/IOMF2/RA0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
 	(hierarchical_label "IV_SEN"
 		(shape input)
-		(at 88.9 76.2 180)
+		(at 41.91 46.355 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -26,7 +1262,7 @@
 	)
 	(hierarchical_label "IU_SEN"
 		(shape input)
-		(at 88.265 67.945 180)
+		(at 41.275 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -37,9 +1273,9 @@
 		)
 		(uuid "071100bd-72bd-4cdb-962b-a41ce03cbafe")
 	)
-	(hierarchical_label "WIN"
+	(hierarchical_label "DIR_W"
 		(shape output)
-		(at 74.93 64.77 180)
+		(at 27.94 34.925 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -49,9 +1285,9 @@
 		)
 		(uuid "24d58d20-f820-4029-ad4d-8388f09853b4")
 	)
-	(hierarchical_label "UEN"
+	(hierarchical_label "PWM_U"
 		(shape output)
-		(at 74.93 67.945 180)
+		(at 27.94 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -61,9 +1297,9 @@
 		)
 		(uuid "3fb13d4d-2588-4e4f-b995-9e39f570c20b")
 	)
-	(hierarchical_label "VIN"
+	(hierarchical_label "DIR_V"
 		(shape output)
-		(at 74.93 62.23 180)
+		(at 27.94 32.385 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -75,7 +1311,7 @@
 	)
 	(hierarchical_label "VDC_DIV"
 		(shape input)
-		(at 88.9 73.66 180)
+		(at 41.91 43.815 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -86,9 +1322,21 @@
 		)
 		(uuid "4af0a7a7-003b-4fcc-86a0-e4328384cd49")
 	)
+	(hierarchical_label "INV_EN"
+		(shape output)
+		(at 27.94 27.305 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6be4e0bd-ba46-44d5-8200-f78aeade4395")
+	)
 	(hierarchical_label "FAULT"
 		(shape input)
-		(at 74.93 75.565 180)
+		(at 27.94 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -101,7 +1349,7 @@
 	)
 	(hierarchical_label "IW_SEN"
 		(shape input)
-		(at 88.265 70.485 180)
+		(at 41.275 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -114,7 +1362,7 @@
 	)
 	(hierarchical_label "VW_DIV"
 		(shape input)
-		(at 87.63 54.61 180)
+		(at 40.64 24.765 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -127,7 +1375,7 @@
 	)
 	(hierarchical_label "VU_DIV"
 		(shape input)
-		(at 86.995 58.42 180)
+		(at 40.005 28.575 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -138,9 +1386,9 @@
 		)
 		(uuid "84889c6c-b643-49f3-b609-56ae2bbe0cf5")
 	)
-	(hierarchical_label "VEN"
+	(hierarchical_label "PWM_V"
 		(shape output)
-		(at 74.93 70.485 180)
+		(at 27.94 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -150,9 +1398,9 @@
 		)
 		(uuid "86577e8f-ba26-4b5c-8e53-376e65014907")
 	)
-	(hierarchical_label "UIN"
+	(hierarchical_label "DIR_U"
 		(shape output)
-		(at 74.93 59.69 180)
+		(at 27.94 29.845 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -162,9 +1410,9 @@
 		)
 		(uuid "9fab557c-dcb0-4c61-8d44-171f4a2850f6")
 	)
-	(hierarchical_label "WEN"
+	(hierarchical_label "PWM_W"
 		(shape output)
-		(at 74.93 73.025 180)
+		(at 27.94 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -176,7 +1424,7 @@
 	)
 	(hierarchical_label "VV_DIV"
 		(shape input)
-		(at 87.63 62.865 180)
+		(at 40.64 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -186,5 +1434,279 @@
 			(justify right)
 		)
 		(uuid "cefd7dd5-9aff-4cb8-898f-53a113a177d8")
+	)
+	(symbol
+		(lib_id "SAMPI:dsPIC33AKxxxMC106")
+		(at 150.495 19.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4bffcca4-89c0-4ba9-a3de-c7eb22f758f4")
+		(property "Reference" "U8"
+			(at 151.13 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+			)
+		)
+		(property "Value" "dsPIC33AKxxxMC106"
+			(at 151.13 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SAMPI:TQFP64_10x10_MCHP"
+			(at 150.495 20.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 150.495 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IC MCU DSC 32BIT 128KB FLASH TQFP-64"
+			(at 150.495 20.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "DSPIC33AK128MC106-I/PT"
+			(at 150.495 20.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Microchip Technology"
+			(at 150.495 20.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "29"
+			(uuid "01bea077-70fb-4efa-b72e-53ab1fef7110")
+		)
+		(pin "44"
+			(uuid "797102dd-da91-4df1-b3fc-92a0327f9668")
+		)
+		(pin "19"
+			(uuid "21b38db4-4fd9-40e5-b1f2-4cc8813a4261")
+		)
+		(pin "46"
+			(uuid "b3988c87-6653-4973-a3c4-cceed42f235c")
+		)
+		(pin "11"
+			(uuid "207e59b1-5368-43a4-9459-eec8ac940b48")
+		)
+		(pin "15"
+			(uuid "0eb8c043-e227-4b52-b972-08ba588292bf")
+		)
+		(pin "20"
+			(uuid "8bf6abc3-f5c5-4ed1-b26a-624f6d89af5e")
+		)
+		(pin "23"
+			(uuid "b15aa671-9ad8-435e-abad-a55b3ccad172")
+		)
+		(pin "27"
+			(uuid "4d799791-c311-459e-9cca-5a5efd4e757b")
+		)
+		(pin "32"
+			(uuid "97723601-057a-41dd-9a56-6da36eca4fce")
+		)
+		(pin "26"
+			(uuid "5e567952-0771-4bff-9376-f795ede68f95")
+		)
+		(pin "36"
+			(uuid "19d1ad91-04a7-41a5-9cf3-efced6b3ec15")
+		)
+		(pin "37"
+			(uuid "90a8dc23-3242-4155-8ba4-46e3335ea982")
+		)
+		(pin "39"
+			(uuid "b25ac97c-8417-43f2-b628-6c1c9a80bf51")
+		)
+		(pin "4"
+			(uuid "dee8043d-a618-4a2e-9cc5-92ea162a71cf")
+		)
+		(pin "43"
+			(uuid "03d690cb-f8c8-40fa-821d-b05f8a4ab792")
+		)
+		(pin "10"
+			(uuid "9faf2eda-abb7-43ea-8ab5-d3629626e6c1")
+		)
+		(pin "47"
+			(uuid "b8b0bfd5-a6a0-4a62-b681-7d9b1bb04cd8")
+		)
+		(pin "48"
+			(uuid "9ca18f82-9581-4145-9914-92ed130789ce")
+		)
+		(pin "12"
+			(uuid "2b43b29b-90bf-44fd-a4fa-64799a0c2d98")
+		)
+		(pin "16"
+			(uuid "ccab86f3-6d34-4e59-adab-9c9c8b1aed57")
+		)
+		(pin "17"
+			(uuid "08c38fe5-5f9a-4ca0-a4a3-4297bf57d0f6")
+		)
+		(pin "24"
+			(uuid "babb0e20-701d-47ad-bf95-eac24313aee1")
+		)
+		(pin "13"
+			(uuid "53861028-9241-4195-b6cc-f20359a08acc")
+		)
+		(pin "3"
+			(uuid "5dea1e63-b475-4ef5-b7d8-3997662cc2d5")
+		)
+		(pin "35"
+			(uuid "cd941e4b-a0af-4500-891d-b5ba831f8863")
+		)
+		(pin "38"
+			(uuid "ce8b1db1-f66a-4e17-8582-81789e8a42f0")
+		)
+		(pin "45"
+			(uuid "d3de35c8-419e-42c4-b3d4-5f28d5b381d0")
+		)
+		(pin "49"
+			(uuid "d0ef2161-e238-4511-87dc-f22a68725a1e")
+		)
+		(pin "5"
+			(uuid "2f0f8cde-d828-4722-8588-3fb281de34d2")
+		)
+		(pin "21"
+			(uuid "845ec500-3863-4291-b34b-490804bb609c")
+		)
+		(pin "33"
+			(uuid "3e266d46-1dc4-4a04-9bbf-b47f844bdeda")
+		)
+		(pin "50"
+			(uuid "0b90ef9c-fe69-4886-bfed-fcbee0cfe29b")
+		)
+		(pin "14"
+			(uuid "72a1aa86-331f-42e8-a7b3-a30a0c0ae347")
+		)
+		(pin "34"
+			(uuid "733bb9a5-f160-4148-93b9-27db06dd5162")
+		)
+		(pin "40"
+			(uuid "faed9b3f-0791-4727-90a0-94891a0da722")
+		)
+		(pin "28"
+			(uuid "9a2efbda-ed9e-4d74-a248-88b1a9f6646d")
+		)
+		(pin "30"
+			(uuid "8ed99e44-85a6-4240-a893-3d2da9f530df")
+		)
+		(pin "31"
+			(uuid "fe759cc6-ad36-46c5-9948-d3d3157b0a29")
+		)
+		(pin "18"
+			(uuid "6e342820-e014-4a5e-bb65-fa2e21e6ef0a")
+		)
+		(pin "22"
+			(uuid "02ff0868-1a22-4fb3-b026-cca2aadb271a")
+		)
+		(pin "41"
+			(uuid "957b3471-c07b-4bc0-ba4a-aa756ac104e1")
+		)
+		(pin "2"
+			(uuid "43249940-0ec7-43d4-9f3f-d706f9bf10f0")
+		)
+		(pin "42"
+			(uuid "b6883644-6c53-4ce9-bb36-a05317d6a00d")
+		)
+		(pin "25"
+			(uuid "3b526a13-8f7b-4ac1-84e6-2b420e91beab")
+		)
+		(pin "63"
+			(uuid "4e770026-d83e-491e-aa67-ca07573d5dab")
+		)
+		(pin "8"
+			(uuid "86e9af69-7a7b-4231-b31e-1d49bc49f01b")
+		)
+		(pin "9"
+			(uuid "e4f40f61-e490-4824-92b8-c3e0e07b8ff3")
+		)
+		(pin "58"
+			(uuid "94d81155-6949-4910-9a97-e93189d53202")
+		)
+		(pin "51"
+			(uuid "c3fbcbe8-c93f-44e9-b191-bff6af023d2d")
+		)
+		(pin "53"
+			(uuid "38fef809-3bfe-49fa-9993-ee899ff5f5d0")
+		)
+		(pin "61"
+			(uuid "98eb620d-b50e-4563-917c-b33451d21eab")
+		)
+		(pin "55"
+			(uuid "f8bcd120-c0e9-444a-8205-4f2f00abaffd")
+		)
+		(pin "7"
+			(uuid "6222b963-1208-404c-85f2-92dda2366143")
+		)
+		(pin "64"
+			(uuid "d08bc824-67cd-46f1-99a7-a41224f76069")
+		)
+		(pin "60"
+			(uuid "0c371c89-db91-4701-a203-c39b3b826ae6")
+		)
+		(pin "54"
+			(uuid "7695f692-8cf2-4799-b9e2-5de09bc120fd")
+		)
+		(pin "56"
+			(uuid "1c1e2f4a-0402-4b0e-abce-f6a6553cc63f")
+		)
+		(pin "6"
+			(uuid "b92a5e97-a51e-4168-a7e7-ca910fea7a5b")
+		)
+		(pin "1"
+			(uuid "6ab30c4c-110e-4e11-9a01-5c95286a3ce6")
+		)
+		(pin "59"
+			(uuid "a3b3f5f9-33ad-4a1f-82dc-860b50d55c3a")
+		)
+		(pin "62"
+			(uuid "e8aef822-3f0b-4262-a959-d468199dcaa8")
+		)
+		(pin "52"
+			(uuid "6ee58757-81fe-4147-9aac-af5bfa4ac984")
+		)
+		(pin "57"
+			(uuid "97de912a-1930-4d62-a7db-948bfd14fea3")
+		)
+		(instances
+			(project ""
+				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/d241aee3-e439-4b0e-8d0e-3112fb86634d"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
 	)
 )

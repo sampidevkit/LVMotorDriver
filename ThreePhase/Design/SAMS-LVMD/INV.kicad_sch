@@ -4332,7 +4332,7 @@
 		)
 		(uuid "3ba81284-697b-46ee-a440-53cfc90e5083")
 	)
-	(hierarchical_label "WEN"
+	(hierarchical_label "WINH"
 		(shape input)
 		(at 30.48 139.7 180)
 		(fields_autoplaced yes)
@@ -4406,7 +4406,7 @@
 		)
 		(uuid "acca2c39-d396-438b-b90d-f6f48c9d2022")
 	)
-	(hierarchical_label "VEN"
+	(hierarchical_label "VINH"
 		(shape input)
 		(at 30.48 82.55 180)
 		(fields_autoplaced yes)
@@ -4430,7 +4430,7 @@
 		)
 		(uuid "c843e73d-9ec2-4ae9-9def-1e9b62f5d201")
 	)
-	(hierarchical_label "UEN"
+	(hierarchical_label "UINH"
 		(shape input)
 		(at 30.48 25.4 180)
 		(fields_autoplaced yes)

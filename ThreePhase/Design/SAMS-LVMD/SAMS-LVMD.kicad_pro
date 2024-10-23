@@ -424,6 +424,10 @@
     [
       "d241aee3-e439-4b0e-8d0e-3112fb86634d",
       "MCU"
+    ],
+    [
+      "005f2a00-9dda-4869-a2f4-9e5ad71ae1f2",
+      "DBG"
     ]
   ],
   "text_variables": {}

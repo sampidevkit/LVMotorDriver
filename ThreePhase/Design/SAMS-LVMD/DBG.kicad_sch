@@ -1,0 +1,815 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b168f3f2-6526-4cbf-934c-1469484d3d42")
+	(paper "A4")
+	(title_block
+		(title "THREE-PHASE MOTOR DRIVER")
+		(date "2024-10-20")
+		(rev "0.0")
+		(company "SAMPI DEVELOPMENT KITS")
+	)
+	(lib_symbols
+		(symbol "Liem:PIC32MM0256GPM028-I_M6"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 6.35 6.985 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MCU"
+				(at 6.985 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Liem:UQFN28-4x4-EP"
+				(at 5.08 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 6.35 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "IC MCU 32BIT 64KB FLASH 28UQFN 4x4x0.4PITCH"
+				(at 10.16 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MNP" "PIC32MM0064GPM028-E/M6"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MFT" "Microchip Technology"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PIC32MM0256GPM028-I_M6_0_0"
+				(pin bidirectional line
+					(at 91.44 1.905 180)
+					(length 2.54)
+					(name "PGED1/AN2/C1IND/C2INB/C3INC/RP6/OCM2C/RB0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 2.54 -28.575 0)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -10.795 180)
+					(length 2.54)
+					(name "PGED3/RP11/ASDA1/USBID/SS3/FSYNC3/OCM3E/RB5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -13.335 180)
+					(length 2.54)
+					(name "VBUS/RB6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -15.875 180)
+					(length 2.54)
+					(name "RP12/SDA3/SDI3/OCM3F/RB7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -18.415 180)
+					(length 2.54)
+					(name "TCK/RP13/SCL1/U1CTS/SCK1/OCM1A/RB8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -20.955 180)
+					(length 2.54)
+					(name "TMS/REFCLKI/RP14/SDA1/T1CK/T1G/T2CK/T2G/U1RTS/U1BCLK/SDO1/OCM1B/INT2/RB9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 2.54 -13.335 0)
+					(length 2.54)
+					(name "PGEC3/TDO/RP18/ASCL1/T3CK/T3G/USBOEN/SDO3/OCM2A/RC9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 91.44 -38.735 180)
+					(length 2.54)
+					(name "VCAP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -23.495 180)
+					(length 2.54)
+					(name "D-/RB10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -26.035 180)
+					(length 2.54)
+					(name "D+/RB11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -0.635 180)
+					(length 2.54)
+					(name "PGEC1/AN3/C1INC/C2INA/RP7/OCM2D/RB1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 2.54 -26.035 0)
+					(length 2.54)
+					(name "VUSB3V3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -28.575 180)
+					(length 2.54)
+					(name "AN8/LVDIN/RP15/SCL3/SCK3/OCM3A/RB13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -31.115 180)
+					(length 2.54)
+					(name "CVREF/AN9/C3INB/RP16/RTCC/U1TX/VBUSON/SDI1/OCM3B/INT1/RB14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -33.655 180)
+					(length 2.54)
+					(name "AN10/C3INA/REFCLKO/RP17/U1RX/SS1/FSYNC1/OCM2B/INT0/RB15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -33.655 0)
+					(length 2.54)
+					(name "AVSS/VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 2.54 -31.115 0)
+					(length 2.54)
+					(name "AVDD/VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 2.54 -18.415 0)
+					(length 2.54)
+					(name "MCLR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 2.54 1.905 0)
+					(length 2.54)
+					(name "PGEC2/VREF+/CVREF+/AN0/RP1/OCM1E/INT3/RA0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 2.54 -0.635 0)
+					(length 2.54)
+					(name "PGED2/VREF-/AN1/RP2/OCM1F/RA1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -38.735 0)
+					(length 2.54)
+					(name "EP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -3.175 180)
+					(length 2.54)
+					(name "AN4/C1INB/RP8/SDA2/OCM2E/RB2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -5.715 180)
+					(length 2.54)
+					(name "TDI/AN11/C1INA/RP9/SCL2/OCM2F/RB3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -36.195 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 2.54 -3.175 0)
+					(length 2.54)
+					(name "OSC1/CLKI/AN5/RP3/OCM1C/RA2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 2.54 -5.715 0)
+					(length 2.54)
+					(name "OSC2/CLKO/AN6/C3IND/RP4/OCM1D/RA3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 91.44 -8.255 180)
+					(length 2.54)
+					(name "SOSCI/AN7/RP10/OCM3C/RB4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 2.54 -8.255 0)
+					(length 2.54)
+					(name "SOSCO/SCLKI/RP5/PWRLCLK/OCM3D/RA4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PIC32MM0256GPM028-I_M6_0_1"
+				(rectangle
+					(start 5.08 3.81)
+					(end 88.9 -41.275)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "PIC32MM0256GPM028-I_M6_1_0"
+				(pin no_connect line
+					(at 2.54 -22.225 0)
+					(length 2.54) hide
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Liem:PIC32MM0256GPM028-I_M6")
+		(at 124.46 65.405 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "685d6ec0-a3fc-439d-b016-ccfe55987a3f")
+		(property "Reference" "U11"
+			(at 171.45 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MCU"
+			(at 171.45 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Liem:UQFN28-4x4-EP"
+			(at 129.54 60.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "IC MCU 32BIT 64KB FLASH 28UQFN 4x4x0.4PITCH"
+			(at 134.62 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNP" "PIC32MM0064GPM028-E/M6"
+			(at 124.46 65.405 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFT" "Microchip Technology"
+			(at 124.46 65.405 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "a321e6e3-d739-4bc5-adb4-efc6d56e2b66")
+		)
+		(pin "14"
+			(uuid "12208abe-7116-46d2-b115-5dd6040f50ff")
+		)
+		(pin "23"
+			(uuid "e4ae1f39-5597-4cc8-9235-02dc77d10946")
+		)
+		(pin "2"
+			(uuid "8e097a0c-f687-41c0-969b-dd9233db004a")
+		)
+		(pin "24"
+			(uuid "386504dc-b6ea-416e-ac9b-418ec6361b5e")
+		)
+		(pin "26"
+			(uuid "f77dbf75-534c-4dab-b02b-0f0ca4b0ccc4")
+		)
+		(pin "27"
+			(uuid "31671c44-8467-4d50-86fe-abcdbaf15ac2")
+		)
+		(pin "5"
+			(uuid "8905a6d3-06da-44a2-9221-e5011ef7e5a5")
+		)
+		(pin "13"
+			(uuid "325b34fb-557d-453f-94fe-b5c70eb9bfeb")
+		)
+		(pin "11"
+			(uuid "99650632-d0b7-4ff1-b02e-47584939f1ef")
+		)
+		(pin "15"
+			(uuid "008cecf0-6b17-4842-8119-eb056b2f9872")
+		)
+		(pin "10"
+			(uuid "3cdbc21f-9b13-4f43-84c4-f88a7eaddda7")
+		)
+		(pin "1"
+			(uuid "10debdd5-a623-4fbd-949f-e67ccdde81e1")
+		)
+		(pin "22"
+			(uuid "ca8cafbe-d9c4-44d6-9e3d-05eeadb51a1b")
+		)
+		(pin "3"
+			(uuid "bf860970-9595-489a-83f2-f7056c726bf3")
+		)
+		(pin "19"
+			(uuid "5d334722-7984-400e-9415-c441a62f321b")
+		)
+		(pin "16"
+			(uuid "d9459055-3245-416f-9aea-ee576610498b")
+		)
+		(pin "25"
+			(uuid "45d04e97-83dc-4260-a716-bc0f16f479d9")
+		)
+		(pin "4"
+			(uuid "e5b840f1-b52d-4642-962f-9cfa0b388aea")
+		)
+		(pin "12"
+			(uuid "74297148-6944-4b92-b212-88ed6ee5af1f")
+		)
+		(pin "28"
+			(uuid "2ec830ce-1924-4661-8e98-7c5a3abe7699")
+		)
+		(pin "7"
+			(uuid "80405154-b644-4793-985d-ecb28cc4bb23")
+		)
+		(pin "21"
+			(uuid "0d3f4468-f2dc-4333-9914-448214242aa5")
+		)
+		(pin "18"
+			(uuid "ed8c34ad-028f-4840-8478-caf3a626b4fc")
+		)
+		(pin "17"
+			(uuid "c917bc62-e85f-4ccd-bf4b-ab297ced2067")
+		)
+		(pin "8"
+			(uuid "edbb1e00-8c38-430f-848b-0067b1848384")
+		)
+		(pin "0"
+			(uuid "0c5f2022-dc8d-4b14-821d-e1c4079119d6")
+		)
+		(pin "29"
+			(uuid "35d49f3b-5626-4093-82a5-6dc6f7a2f545")
+		)
+		(pin "6"
+			(uuid "7e43faa8-fde1-415b-9321-646d33d66273")
+		)
+		(pin "20"
+			(uuid "42184910-6756-4921-93ff-089ea96cfa57")
+		)
+		(instances
+			(project ""
+				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/005f2a00-9dda-4869-a2f4-9e5ad71ae1f2"
+					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
