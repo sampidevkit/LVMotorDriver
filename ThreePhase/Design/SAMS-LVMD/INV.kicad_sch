@@ -2526,12 +2526,6 @@
 		)
 	)
 	(junction
-		(at 31.75 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "00c579e3-302b-4217-b445-6b62d7d4ceee")
-	)
-	(junction
 		(at 86.36 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2572,12 +2566,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b6eef35-c7ef-4ba5-b227-5d4f309a73fc")
-	)
-	(junction
-		(at 31.75 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "32d990cc-61e6-42b1-90cf-825f289a3ec5")
 	)
 	(junction
 		(at 86.36 120.65)
@@ -2632,18 +2620,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e898569-e6c7-444d-a882-c780883a145a")
-	)
-	(junction
-		(at 40.64 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72c104f0-f1e5-40e3-9e16-07447de21473")
-	)
-	(junction
-		(at 31.75 25.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "74915153-8e69-4288-baf3-cd6f5217b3f7")
 	)
 	(junction
 		(at 68.58 151.13)
@@ -2837,16 +2813,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 25.4) (xy 31.75 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d1972d1-e442-47b0-8f86-ae5cc9007978")
-	)
-	(wire
-		(pts
 			(xy 119.38 175.26) (xy 119.38 177.8)
 		)
 		(stroke
@@ -2927,16 +2893,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 139.7) (xy 31.75 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1dc6e55d-c8b8-4152-9a88-c8ab04300028")
-	)
-	(wire
-		(pts
 			(xy 68.58 105.41) (xy 68.58 106.68)
 		)
 		(stroke
@@ -2987,16 +2943,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 45.72) (xy 40.64 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26325f00-e14f-41e6-be93-18f22796b108")
-	)
-	(wire
-		(pts
 			(xy 48.26 162.56) (xy 49.53 162.56)
 		)
 		(stroke
@@ -3004,36 +2950,6 @@
 			(type default)
 		)
 		(uuid "27afa324-1ca3-40e8-a6d7-d963b07fddf3")
-	)
-	(wire
-		(pts
-			(xy 31.75 25.4) (xy 41.91 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29133c4a-bfaf-4ec9-8c83-74c4a5fa7039")
-	)
-	(wire
-		(pts
-			(xy 31.75 82.55) (xy 31.75 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "291697ed-5ed6-42ad-a9e2-37f75f981138")
-	)
-	(wire
-		(pts
-			(xy 30.48 82.55) (xy 31.75 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fd6cd31-56ef-4b8e-af7b-061624b96716")
 	)
 	(wire
 		(pts
@@ -3164,16 +3080,6 @@
 			(type default)
 		)
 		(uuid "417aba4f-983c-4d97-8918-ac0ff0568281")
-	)
-	(wire
-		(pts
-			(xy 31.75 140.97) (xy 31.75 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4682d372-3491-45b7-bba2-0533871ff47b")
 	)
 	(wire
 		(pts
@@ -3317,16 +3223,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 49.53) (xy 40.64 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e90169f-88b9-4c12-8723-43917b2c831e")
-	)
-	(wire
-		(pts
 			(xy 67.31 139.7) (xy 68.58 139.7)
 		)
 		(stroke
@@ -3374,16 +3270,6 @@
 			(type default)
 		)
 		(uuid "67258a5f-60d9-4c48-b262-f6dd3c9c9ef0")
-	)
-	(wire
-		(pts
-			(xy 31.75 139.7) (xy 41.91 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6856ddbc-4c35-40f9-aa54-b3888e649828")
 	)
 	(wire
 		(pts
@@ -3514,16 +3400,6 @@
 			(type default)
 		)
 		(uuid "888f4bd1-a2f1-4a56-b7ad-0ba86b1fb830")
-	)
-	(wire
-		(pts
-			(xy 30.48 25.4) (xy 31.75 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "898f276a-fb16-42e1-b1f8-c3bfc42a78d6")
 	)
 	(wire
 		(pts
@@ -3867,16 +3743,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 45.72) (xy 49.53 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf0a8f82-100b-4c47-81fa-4a95c9720867")
-	)
-	(wire
-		(pts
 			(xy 68.58 151.13) (xy 69.85 151.13)
 		)
 		(stroke
@@ -3984,16 +3850,6 @@
 			(type default)
 		)
 		(uuid "e653ddd8-cc19-4ae4-856f-78541ee32b32")
-	)
-	(wire
-		(pts
-			(xy 31.75 82.55) (xy 41.91 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9e0f998-85ce-4c88-9319-d0f5622917f7")
 	)
 	(wire
 		(pts
@@ -4220,7 +4076,7 @@
 	)
 	(hierarchical_label "FAULT"
 		(shape output)
-		(at 39.37 45.72 180)
+		(at 49.53 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4310,7 +4166,7 @@
 	)
 	(hierarchical_label "VIN"
 		(shape input)
-		(at 41.91 90.17 180)
+		(at 49.53 90.17 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4334,7 +4190,7 @@
 	)
 	(hierarchical_label "WINH"
 		(shape input)
-		(at 30.48 139.7 180)
+		(at 49.53 139.7 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4408,7 +4264,7 @@
 	)
 	(hierarchical_label "VINH"
 		(shape input)
-		(at 30.48 82.55 180)
+		(at 49.53 82.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4420,7 +4276,7 @@
 	)
 	(hierarchical_label "UIN"
 		(shape input)
-		(at 41.91 33.02 180)
+		(at 49.53 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4432,7 +4288,7 @@
 	)
 	(hierarchical_label "UINH"
 		(shape input)
-		(at 30.48 25.4 180)
+		(at 49.53 25.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4444,7 +4300,7 @@
 	)
 	(hierarchical_label "WIN"
 		(shape input)
-		(at 41.91 147.32 180)
+		(at 49.53 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5115,71 +4971,6 @@
 			(project "SAMS-LVMD"
 				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
 					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 31.75 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "14f78b0d-2c99-4dbe-8d95-5543db9e23d4")
-		(property "Reference" "#PWR03"
-			(at 31.75 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 31.75 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "977d8c32-d7f0-40f1-92e1-5352df23aa37")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -6073,71 +5864,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 31.75 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "30b373b5-920f-4d9b-86f2-cd0203562773")
-		(property "Reference" "#PWR02"
-			(at 31.75 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 31.75 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b65868ef-7462-4342-95e3-a8513c495d03")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SAMPI:CERCAP")
 		(at 83.82 184.15 90)
 		(unit 1)
@@ -6224,95 +5950,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SAMPI:RES")
-		(at 34.29 88.9 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "358c3202-0a3a-402e-a5ab-86f9128ab635")
-		(property "Reference" "R2"
-			(at 30.48 86.3599 90)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10K"
-			(at 30.48 88.8999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 34.29 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 10K OHM 5% 1/10W 0603"
-			(at 34.29 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 34.29 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-0710KL"
-			(at 34.29 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "23d03cfd-2e0b-48b2-889e-5c7670c126a4")
-		)
-		(pin "2"
-			(uuid "6fbd6595-e0dd-4ddf-a0b1-852cfe76a600")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SAMPI:AGND")
 		(at 86.36 186.69 0)
 		(unit 1)
@@ -6373,71 +6010,6 @@
 			(project "SAMS-LVMD"
 				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
 					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 40.64 57.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "39783fc8-dcfb-4800-aeed-2674256f43c8")
-		(property "Reference" "#PWR04"
-			(at 40.64 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 40.64 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 40.64 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 40.64 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1b20c5ff-3295-4709-8940-83152b6fa8a9")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -6505,184 +6077,6 @@
 			(project "SAMS-LVMD"
 				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SAMPI:RES")
-		(at 46.99 137.16 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3cb00a59-e04c-4514-bfc5-a0725d2c5057")
-		(property "Reference" "R9"
-			(at 44.45 137.16 0)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1K"
-			(at 44.45 141.605 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 46.99 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 1K OHM 5% 1/10W 0603"
-			(at 46.99 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 46.99 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-071KL"
-			(at 46.99 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0e3db94a-55a4-4888-86d8-d7255fe73d93")
-		)
-		(pin "2"
-			(uuid "d37d4329-7c0a-4676-af54-6b59606ce614")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SAMPI:RES")
-		(at 34.29 146.05 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4b3a4d24-3541-4e72-ad70-198fc490e082")
-		(property "Reference" "R3"
-			(at 30.48 143.5099 90)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10K"
-			(at 30.48 146.0499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 34.29 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 10K OHM 5% 1/10W 0603"
-			(at 34.29 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 34.29 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-0710KL"
-			(at 34.29 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "661f49f7-9e33-4dda-b2ab-e0532c3476a0")
-		)
-		(pin "2"
-			(uuid "e6526620-4bae-42f4-8815-3eb71767ac19")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -7131,160 +6525,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 31.75 34.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "58131d21-f4d0-4af4-bd99-2a1ed17e57f5")
-		(property "Reference" "#PWR01"
-			(at 31.75 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 31.75 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 31.75 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "31fa49ef-5110-4819-9ac4-58a76f790cac")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SAMPI:RES")
-		(at 34.29 31.75 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "58e9dd36-ca30-4ce6-a053-796b21b98340")
-		(property "Reference" "R1"
-			(at 30.48 29.2099 90)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10K"
-			(at 30.48 31.7499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 34.29 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 10K OHM 5% 1/10W 0603"
-			(at 34.29 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 34.29 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-0710KL"
-			(at 34.29 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dee521d1-597f-45ad-ad0c-182ada9c1b8b")
-		)
-		(pin "2"
-			(uuid "ecd8f835-58f4-4632-9445-8c02e2d24ac0")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SAMPI:RES")
 		(at 260.35 52.07 270)
 		(mirror x)
@@ -7304,7 +6544,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "150K"
 			(at 255.905 52.705 90)
 			(effects
 				(font
@@ -7480,7 +6720,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5V"
+		(property "Value" "VZ3.3"
 			(at 175.26 41.275 0)
 			(effects
 				(font
@@ -7507,7 +6747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "TVS DIODE 5VWM SOD923"
+		(property "Description" "TVS DIODE 3.3VWM 14.1VC 0402"
 			(at 179.705 44.45 0)
 			(effects
 				(font
@@ -7516,7 +6756,7 @@
 				(hide yes)
 			)
 		)
-		(property "MNP" "DF2S6.2FS,L3M"
+		(property "MNP" "CPDQ3V3-HF"
 			(at 179.705 44.45 0)
 			(effects
 				(font
@@ -7525,7 +6765,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFT" "Toshiba"
+		(property "MFT" "Comchip Technology"
 			(at 179.705 44.45 0)
 			(effects
 				(font
@@ -8110,7 +7350,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "150K"
 			(at 191.135 32.385 90)
 			(effects
 				(font
@@ -8429,95 +7669,6 @@
 			(project "SAMS-LVMD"
 				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
 					(reference "#PWR060")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SAMPI:RES")
-		(at 46.99 144.78 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7350c7ea-34d0-4742-8322-340e902d59b6")
-		(property "Reference" "R10"
-			(at 44.45 144.78 0)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1K"
-			(at 44.45 149.225 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 46.99 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 1K OHM 5% 1/10W 0603"
-			(at 46.99 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 46.99 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-071KL"
-			(at 46.99 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f9a5e83d-3609-4e95-84b9-9f8596507347")
-		)
-		(pin "2"
-			(uuid "036c59d7-4893-4f10-b167-70b16d167349")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -9087,95 +8238,6 @@
 			(project "SAMS-LVMD"
 				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
 					(reference "C19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SAMPI:RES")
-		(at 46.99 87.63 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7d1d0b05-b27d-4afa-a693-dc50f0b06a3c")
-		(property "Reference" "R8"
-			(at 44.45 87.63 0)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1K"
-			(at 44.45 92.075 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 46.99 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 1K OHM 5% 1/10W 0603"
-			(at 46.99 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 46.99 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-071KL"
-			(at 46.99 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "07fda225-b25f-4a6c-8313-9bc58a06e504")
-		)
-		(pin "2"
-			(uuid "9106749a-94af-4e28-8e29-0c6b7cb0722b")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -9786,95 +8848,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SAMPI:RES")
-		(at 43.18 54.61 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9bdeeab8-b06f-4241-85f5-289e08d43c71")
-		(property "Reference" "R4"
-			(at 39.37 52.0699 90)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10K"
-			(at 39.37 54.6099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 43.18 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 10K OHM 5% 1/10W 0603"
-			(at 43.18 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 43.18 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-0710KL"
-			(at 43.18 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "96906bcf-ba8b-46b6-bb93-2940c9c59951")
-		)
-		(pin "2"
-			(uuid "197178b6-4edb-4f80-83c9-0d71e70a781e")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SAMPI:CERCAP")
 		(at 219.71 52.07 270)
 		(mirror x)
@@ -10055,95 +9028,6 @@
 			(project "SAMS-LVMD"
 				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
 					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SAMPI:RES")
-		(at 46.99 22.86 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9dbf3398-19ae-47ab-991c-98421e0f4d6a")
-		(property "Reference" "R5"
-			(at 44.45 22.86 0)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1K"
-			(at 44.45 27.305 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 46.99 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 1K OHM 5% 1/10W 0603"
-			(at 46.99 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 46.99 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-071KL"
-			(at 46.99 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8518352f-d2cb-462c-8f9a-06b976c3fc51")
-		)
-		(pin "2"
-			(uuid "b9d779c7-10a9-4b33-a4b8-c7838ea968ea")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -10462,7 +9346,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "150K"
 			(at 222.885 42.545 90)
 			(effects
 				(font
@@ -10616,7 +9500,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5V"
+		(property "Value" "VZ3.3"
 			(at 207.01 51.435 0)
 			(effects
 				(font
@@ -10643,7 +9527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "TVS DIODE 5VWM SOD923"
+		(property "Description" "TVS DIODE 3.3VWM 14.1VC 0402"
 			(at 211.455 54.61 0)
 			(effects
 				(font
@@ -10652,7 +9536,7 @@
 				(hide yes)
 			)
 		)
-		(property "MNP" "DF2S6.2FS,L3M"
+		(property "MNP" "CPDQ3V3-HF"
 			(at 211.455 54.61 0)
 			(effects
 				(font
@@ -10661,7 +9545,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFT" "Toshiba"
+		(property "MFT" "Comchip Technology"
 			(at 211.455 54.61 0)
 			(effects
 				(font
@@ -10838,7 +9722,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5V"
+		(property "Value" "VZ3.3"
 			(at 240.03 61.595 0)
 			(effects
 				(font
@@ -10865,7 +9749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "TVS DIODE 5VWM SOD923"
+		(property "Description" "TVS DIODE 3.3VWM 14.1VC 0402"
 			(at 244.475 64.77 0)
 			(effects
 				(font
@@ -10874,7 +9758,7 @@
 				(hide yes)
 			)
 		)
-		(property "MNP" "DF2S6.2FS,L3M"
+		(property "MNP" "CPDQ3V3-HF"
 			(at 244.475 64.77 0)
 			(effects
 				(font
@@ -10883,7 +9767,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFT" "Toshiba"
+		(property "MFT" "Comchip Technology"
 			(at 244.475 64.77 0)
 			(effects
 				(font
@@ -11119,184 +10003,6 @@
 			(project "SAMS-LVMD"
 				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
 					(reference "#PWR057")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SAMPI:RES")
-		(at 46.99 30.48 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bccb7103-0c54-40b9-8ca9-99de244a643b")
-		(property "Reference" "R6"
-			(at 44.45 30.48 0)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1K"
-			(at 44.45 34.925 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 46.99 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 1K OHM 5% 1/10W 0603"
-			(at 46.99 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 46.99 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-071KL"
-			(at 46.99 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c3e40918-9e37-4ca6-b0a7-0cbc99be18a4")
-		)
-		(pin "2"
-			(uuid "114ca300-bc4d-477c-94c5-2dca0d2e0099")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SAMPI:RES")
-		(at 46.99 80.01 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bf93c6d0-df44-4217-bfd3-9c0f8667eb51")
-		(property "Reference" "R7"
-			(at 44.45 80.01 0)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(bold yes)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1K"
-			(at 44.45 84.455 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SAMPI:RES0603"
-			(at 46.99 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 1K OHM 5% 1/10W 0603"
-			(at 46.99 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFT" "Yageo"
-			(at 46.99 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MNP" "RC0603JR-071KL"
-			(at 46.99 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "81863b15-5c60-4f5f-90f1-cf3d3cc9ec49")
-		)
-		(pin "2"
-			(uuid "db05047a-3c2e-4ed3-8fb7-a02d4c782113")
-		)
-		(instances
-			(project "SAMS-LVMD"
-				(path "/eabd06f1-940c-48a8-9672-5070803c1e31/68272e0a-d6d9-4e42-adf3-1405aaff74db"
-					(reference "R7")
 					(unit 1)
 				)
 			)
